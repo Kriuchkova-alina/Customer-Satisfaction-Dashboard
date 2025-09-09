@@ -24,12 +24,12 @@
 
 ## 🗂️ Dashboard canvas
 - [Ссылка на dashboard canvas](https://disk.yandex.ru/i/7uHrc3LIgcFksw)  
-![ ](images/dashboard canvas.jpg)  
+![](https://disk.yandex.ru/i/lZSIJeHxXBLwTg)  
 
 ## 🗂️ Дашборд
 - [Ссылка на дашборд](https://datalens.yandex/c7479ourv4jex)  
-![ ](images/dashboard KPI.jpg) 
-![ ](images/dashboard detail analitycs.jpg) 
+![](https://disk.yandex.ru/i/BAdtqRzcoaY-nQ) 
+![](https://disk.yandex.ru/i/LHs4toZOIrO4vw) 
 
 ## 🔎 Основные выводы
 - Часть брендов имеет индекс удовлетворенности ниже 80%, что связано с низким качеством карточек (мало фото, отсутствие видео).  
